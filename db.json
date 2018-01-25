@@ -1,8 +1,19 @@
 {
-  "answer": [
-    {"topic": "header was loaded", "state": true},
-		{"topic": "SSP send request", "state": true},
-		{"topic": "DFP got districtm kv", "state": true},
-		{"topic": "Bid was won", "state": false},
+	"answer": [{
+			"topic": "header was loaded",
+			"state": true
+		},
+		{
+			"topic": "SSP send request",
+			"state": true
+		},
+		{
+			"topic": "DFP got districtm kv",
+			"state": true
+		},
+		{
+			"topic": "Bid was won",
+			"state": false
+		}
 	]
 }
