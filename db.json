@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 12,
-      "sku": "proteine1.e331a9ba",
+      "sku": "proteine1",
       "title": "Proteine powder Tee Black",
       "description": "4 MSL",
       "availableSizes": ["S", "XS"],
@@ -16,7 +16,7 @@
 
     {
       "id": 13,
-      "sku": "proteine2.65fc92fa",
+      "sku": "proteine2",
       "title": "Dark Thug Blue-Navy T-Shirt",
       "description": "",
       "availableSizes": ["M"],
@@ -30,7 +30,7 @@
 
     {
       "id": 14,
-      "sku": "proteine3.3f93000b",
+      "sku": "proteine3",
       "title": "Sphynx Tie Dye Wine T-Shirt",
       "description": "GPX Poly 1",
       "availableSizes": ["X", "L", "XL"],
@@ -44,7 +44,7 @@
 
     {
       "id": 15,
-      "sku": "proteine4.96531de9",
+      "sku": "proteine4",
       "title": "Skuul",
       "description": "Treino 2014",
       "availableSizes": ["X", "L", "XL", "XXL"],
